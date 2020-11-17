@@ -1,0 +1,4 @@
+2204 = "Lomsia"
+4303 = "Tao"
+9243 = "Artvinis"
+9244 = "Artaani"

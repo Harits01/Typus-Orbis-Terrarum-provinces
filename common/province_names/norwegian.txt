@@ -1,0 +1,17 @@
+10 = "Jemtland"
+16 = "Båhuslen"
+369 = "Orkneyjar"
+1777 = "Kolahalvøya"
+
+1978 = "Hjaltland"
+1979 = "Færøyene"
+4143 = "Borgarsysla"
+
+867  = "Rødsøylene"	
+868  = "Kjempe"	
+869  = "Furunes"	
+870  = "Sviddfjell"	
+871  = "Ensteg"	
+872  = "Karlshavn"	
+873  = "Peterfloden"	
+874  = "Jørstadsberget"	

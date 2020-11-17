@@ -1,0 +1,11 @@
+593 = "Negara Sri Dharmaraja"
+596 = "Melaka"
+2373 = "Lin-yi"
+2390 = "Cahaya"
+2391 = "Tanjung Salang"
+10178 = "Singgora"
+10179 = "Mardelong"
+10180 = "Setul"
+10181 = "Terang"
+10183 = "Pangan"
+
